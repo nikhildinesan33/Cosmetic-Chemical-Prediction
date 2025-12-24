@@ -1,0 +1,8 @@
+# Ignore trained models
+models/
+*.pkl
+
+# Ignore virtual environment & cache
+venv/
+__pycache__/
+.ipynb_checkpoints/
